@@ -29,19 +29,19 @@ export const PRODUCTS = [
   },
   {
     id: 4,
-    productName: "WLS Van Gogh Denim Jacket",
+    productName: "Nike 2",
     price: 228.0,
     productImage: product4,
   },
   {
     id: 5,
-    productName: "LED Light Strips",
+    productName: "Shoe 5",
     price: 19.99,
     productImage: product5,
   },
   {
     id: 6,
-    productName: "SPECTRUM LS TEE",
+    productName: "Shoe six",
     price: 68.0,
     productImage: product6,
   },
